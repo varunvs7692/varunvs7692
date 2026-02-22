@@ -2,37 +2,10 @@
 
 Welcome to my GitHub profile!
 
-## 🚀 My Tech Stack
-
-| Category      | Tools/Technologies |
-|-------------- |-------------------|
-| IDE           | VS Code           |
-| Version Control | Git, GitHub      |
-| Containerization | Docker          |
-| Cloud         | Azure, AWS, Google Cloud |
-| Communication | Slack, Microsoft Teams |
-| Project Management | Jira          |
-| Design        | Figma             |
-| Programming   | Python, JavaScript, TypeScript |
-| Frameworks    | React, Node.js, Django |
-| Databases     | SQLite, PostgreSQL, MySQL |
-| BI/Analytics  | Power BI          |
-
-## 📋 My Stack
-
-| Category         | Tools & Technologies |
-|------------------|---------------------|
-| IDE              | VS Code             |
-| Version Control  | Git, GitHub         |
-| Containerization | Docker              |
-| Cloud            | Azure, AWS, Google Cloud |
-| Communication    | Slack, Microsoft Teams |
-| Design           | Figma, Sketch, Photoshop, Adobe XD |
-| Project Mgmt     | Jira, Azure DevOps  |
-| Programming      | Python, JavaScript, TypeScript, Java, C++ |
-| Frameworks       | React, Node.js, Django |
-| Databases        | SQLite, PostgreSQL, MySQL |
-| Analytics        | Power BI            |
+## 🔥 GitHub Streaks
+<div align="center">
+	<img src="https://streak-stats.demolab.com?user=varunvs7692&theme=dracula&hide_border=false" alt="GitHub Streaks" />
+</div>
 
 ## 🛠️ Tools I Use
 <div>
