@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -48,18 +47,3 @@
 
 ###
 
-## 🎨 UI/UX Design
-<div align="left">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="30" alt="sketch logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-	<img width="12" />
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="30" alt="adobe xd logo"  />
-</div>
-
-- Proficient in UI/UX design principles, wireframing, prototyping, and user research
-- Tools: Figma, Sketch, Adobe Photoshop, Adobe XD
-
-###
