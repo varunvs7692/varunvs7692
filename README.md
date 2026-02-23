@@ -1,3 +1,10 @@
+<br/>
+
+<div align="center">
+  <h2>✨ Anime Vibes ✨</h2>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Z2b2Z2d3Z2b2Z2d2Z2b2Z2b2Z2b2Z2b2Z2b2Z2b2Z2b2Z2/gk3Z1OQ6pAqEw/giphy.gif" alt="Anime GIF" width="350" style="border-radius: 16px; box-shadow: 0 4px 16px #282a36;" />
+  <p style="color:#8be9fd; font-size:18px; font-family:'Fira Code', monospace;">Keep coding, keep dreaming! 🌸</p>
+</div>
 <!-- Gradient Banner -->
 <div align="center">
   <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
