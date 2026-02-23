@@ -25,5 +25,11 @@ Welcome to my GitHub profile!
 </div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
 </div>
+
+## 🎨 Theme
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Theme-Dracula-%2350fa7b?style=for-the-badge&logo=dracula&logoColor=white" alt="Dracula Theme" />
+</div>
 	
 
