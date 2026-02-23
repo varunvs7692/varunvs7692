@@ -1,3 +1,24 @@
+<!-- Gradient Banner -->
+<div align="center">
+  <svg width="100%" height="80" viewBox="0 0 1200 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#50fa7b;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#8be9fd;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="1200" height="80" fill="url(#grad1)" />
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-size="40" fill="#282a36" font-family="Fira Code, monospace">Welcome to My Creative Space</text>
+  </svg>
+</div>
+
+<!-- SVG Wave Divider -->
+<div align="center">
+  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,30 Q300,60 600,30 T1200,30 V60 H0 Z" fill="#282a36" />
+  </svg>
+</div>
+
 <br/>
 
 <div align="center">
