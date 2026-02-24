@@ -73,15 +73,6 @@
 
 <br/>
 
-  <!-- Mushoku Tensei Section -->
-  <div align="center">
-    <h2>✨ Mushoku Tensei Fan Zone ✨</h2>
-    <img src="https://static.wikia.nocookie.net/mushokutensei/images/7/7c/Mushoku_Tensei_Anime_Logo.png" height="80" alt="Mushoku Tensei Logo" />
-    <br/>
-    <img src="https://static.wikia.nocookie.net/mushokutensei/images/2/2c/Rudeus_Anime.png" height="120" alt="Rudeus Greyrat" />
-    <p><b>Mushoku Tensei: Jobless Reincarnation</b> is a popular anime about second chances, magic, and adventure. If you love anime, check it out!</p>
-  </div>
-
 
 	
 
